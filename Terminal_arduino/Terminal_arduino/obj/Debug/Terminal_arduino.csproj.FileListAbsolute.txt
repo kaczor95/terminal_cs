@@ -1,1 +1,9 @@
 C:\Repozytoria\01_terminal_csharp\Terminal_arduino\Terminal_arduino\bin\Debug\Terminal_arduino.exe.config
+C:\Repozytoria\01_terminal_csharp\Terminal_arduino\Terminal_arduino\bin\Debug\Terminal_arduino.exe
+C:\Repozytoria\01_terminal_csharp\Terminal_arduino\Terminal_arduino\bin\Debug\Terminal_arduino.pdb
+C:\Repozytoria\01_terminal_csharp\Terminal_arduino\Terminal_arduino\obj\Debug\Terminal_arduino.csprojResolveAssemblyReference.cache
+C:\Repozytoria\01_terminal_csharp\Terminal_arduino\Terminal_arduino\obj\Debug\Terminal_arduino.Form1.resources
+C:\Repozytoria\01_terminal_csharp\Terminal_arduino\Terminal_arduino\obj\Debug\Terminal_arduino.Properties.Resources.resources
+C:\Repozytoria\01_terminal_csharp\Terminal_arduino\Terminal_arduino\obj\Debug\Terminal_arduino.csproj.GenerateResource.Cache
+C:\Repozytoria\01_terminal_csharp\Terminal_arduino\Terminal_arduino\obj\Debug\Terminal_arduino.exe
+C:\Repozytoria\01_terminal_csharp\Terminal_arduino\Terminal_arduino\obj\Debug\Terminal_arduino.pdb

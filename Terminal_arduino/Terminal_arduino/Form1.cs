@@ -15,6 +15,26 @@ namespace Terminal_arduino
         public Form1()
         {
             InitializeComponent();
+            serialPort.PortName = "COM3";
+            serialPort.BaudRate = 9600;
+        }
+
+        private void buttonOpen_Click(object sender, EventArgs e)
+        {
+            serialPort.Open();
+
+            panelOpen.BackColor = Color.Lime;
+            panelClose.BackColor = SystemColors.Control;
+
+
+        }
+
+        private void buttonClose_Click(object sender, EventArgs e)
+        {
+            serialPort.Close();
+
+            panelClose.BackColor = Color.Red;
+            panelOpen.BackColor = SystemColors.Control;
         }
     }
 }
