@@ -1,0 +1,1 @@
+C:\Repozytoria\01_terminal_csharp\Terminal_arduino\Terminal_arduino\bin\Debug\Terminal_arduino.exe.config
